@@ -1,4 +1,4 @@
-package number_Program;
+package number_program;
 
 public class RevInRange {
 public static void main(String[] args) {
