@@ -3,7 +3,6 @@ package string_program;
 import java.util.Scanner;
 
 public class Check_Vowels {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
