@@ -9,6 +9,7 @@ public class Check_Vowel_At_index3 {
 		String str[] = new String[5];
 		char result = ' ';
 		System.out.println("Enter the five Names : ");
+		
 		for(int i=0;i<str.length;i++)
 		{
 			str[i] = sc.next();
